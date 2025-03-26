@@ -27,4 +27,8 @@ public class Constructor2 {
 Alg obj= new Alg(5,9);
 System.out.println("sum="+ obj.add());
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d366754 (initial commit 1)

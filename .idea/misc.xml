@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/LinkedList/pom.xml" />
+        <option value="$PROJECT_DIR$/LL/pom.xml" />
+        <option value="$PROJECT_DIR$/LL2/pom.xml" />
+      </list>
+    </option>
+  </component>
+>>>>>>> d366754 (initial commit 1)
   <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
