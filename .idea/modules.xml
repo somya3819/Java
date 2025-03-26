@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2DArrays/2DArrays.iml" filepath="$PROJECT_DIR$/2DArrays/2DArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array1/Array1.iml" filepath="$PROJECT_DIR$/Array1/Array1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array2/Array2.iml" filepath="$PROJECT_DIR$/Array2/Array2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array3/Array3.iml" filepath="$PROJECT_DIR$/Array3/Array3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array4/Array4.iml" filepath="$PROJECT_DIR$/Array4/Array4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays5_TwoPointers/Arrays5_TwoPointers.iml" filepath="$PROJECT_DIR$/Arrays5_TwoPointers/Arrays5_TwoPointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays6_PrefixSumProb/Arrays6_PrefixSumProb.iml" filepath="$PROJECT_DIR$/Arrays6_PrefixSumProb/Arrays6_PrefixSumProb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_12Dec/Class_12Dec.iml" filepath="$PROJECT_DIR$/Class_12Dec/Class_12Dec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberSystem/NumberSystem.iml" filepath="$PROJECT_DIR$/NumberSystem/NumberSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion2-GCD/Recursion2-GCD.iml" filepath="$PROJECT_DIR$/Recursion2-GCD/Recursion2-GCD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion3/Recursion3.iml" filepath="$PROJECT_DIR$/Recursion3/Recursion3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion4-Strings/Recursion4-Strings.iml" filepath="$PROJECT_DIR$/Recursion4-Strings/Recursion4-Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion5_ArrayString/Recursion5_ArrayString.iml" filepath="$PROJECT_DIR$/Recursion5_ArrayString/Recursion5_ArrayString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeComplexitySpaceComplexity/TimeComplexitySpaceComplexity.iml" filepath="$PROJECT_DIR$/TimeComplexitySpaceComplexity/TimeComplexitySpaceComplexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZClass/ZClass.iml" filepath="$PROJECT_DIR$/ZClass/ZClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java lectures and practice.iml" filepath="$PROJECT_DIR$/java lectures and practice.iml" />
+    </modules>
+  </component>
+</project>
