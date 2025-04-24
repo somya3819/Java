@@ -9,7 +9,16 @@
         <option value="$PROJECT_DIR$/LinkedList/pom.xml" />
         <option value="$PROJECT_DIR$/LL/pom.xml" />
         <option value="$PROJECT_DIR$/LL2/pom.xml" />
+        <option value="$PROJECT_DIR$/Stacks/pom.xml" />
+        <option value="$PROJECT_DIR$/Somyaa/pom.xml" />
+        <option value="$PROJECT_DIR$/StackAndQueues/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Somyaa/pom.xml" />
+        <option value="$PROJECT_DIR$/Stacks/pom.xml" />
+      </set>
     </option>
   </component>
 >>>>>>> d366754 (initial commit 1)
